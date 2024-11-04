@@ -103,5 +103,12 @@ ThisItem.Size
 ThisItem.Department
 '''
 24.Your gallery should now look like this:
+
 ![app look](https://github.com/AishuSrini/PowerApps-with-data/blob/main/images/app%20look.png)
 
+25.Select the RecordsGallery1 and then select the edit button to put the gallery in edit mode. Then click on Insert > search for Image > and then select the Image component.
+
+![image](https://github.com/AishuSrini/PowerApps-with-data/blob/main/images/image.png)
+
+26.The image will then be added to your gallery. Reposition and resize the image so that it is in the center of each gallery cell.
+![app with image](https://github.com/AishuSrini/PowerApps-with-data/blob/main/images/app%20with%20image.png)
