@@ -64,3 +64,10 @@ In this exercise, you will create an application using data from an Excel table.
 
 13.On the app main screen, click on the gallery displaying the Employee Records and then click on RecordsGallery1 in the Tree view to expand it.
 ![gallery](https://github.com/AishuSrini/PowerApps-with-data/blob/main/images/gallery.png)
+
+14.Select the ellipsis (…) next to the NextArrow and delete it.
+
+![delete](https://github.com/AishuSrini/PowerApps-with-data/blob/main/images/next%20arrow%20delete.png)
+
+15.Select the RecordsGallery1 and then select the edit button to put the gallery in edit mode.
+![edit](https://github.com/AishuSrini/PowerApps-with-data/blob/main/images/edit.png)
