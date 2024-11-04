@@ -112,3 +112,10 @@ ThisItem.Department
 
 26.The image will then be added to your gallery. Reposition and resize the image so that it is in the center of each gallery cell.
 ![app with image](https://github.com/AishuSrini/PowerApps-with-data/blob/main/images/app%20with%20image.png)
+
+Now to use Power Apps Ideas. Make sure the gallery is still in edit mode. And select the gallery body containing the Price. Then select the arrow next to the Copilot icon which appears above it. Next, select Text formatting.
+
+27.Save the app.
+
+28.Publish the app by clicking the publish icon in the top right corner
+![publish](https://github.com/AishuSrini/PowerApps-with-data/blob/main/images/publish.png)
