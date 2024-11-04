@@ -4,9 +4,6 @@
 In this lab, you will go though the following tasks:
 
 + Creating A Canvas App With Data From An Excel-File
-+ Creating A Canvas App With Power Apps Copilot
-+ Creating A Solution
-+ Add The Resources Created By Power Apps Copilot To A Solution
   
 # **☑️ Task 1: Create A Canvas App With Data From An Excel-File**
 In this task, you will:
@@ -80,18 +77,18 @@ The other components should reposition alongside the Title component. If not, th
 17.Make sure that the gallery is still in edit mode. Select the Title.
 
 18.Make sure that the Text value of the Title component is set to the following formula:
-'''
+```
 ThisItem.'Employee Name'
-'''
+```
 ![text prperty](https://github.com/AishuSrini/PowerApps-with-data/blob/main/images/text%20property.png)
 
 19.Now select the Subtitle component in the gallery.
 
 20.Set the Text value of the Subtitle to the following formula:
 
-'''
+```
 ThisItem.Size
-'''
+```
 
 21.Using the tool bar at the top of the page, change the Size to 14.
 ![size](https://github.com/AishuSrini/PowerApps-with-data/blob/main/images/size.png)
@@ -99,9 +96,9 @@ ThisItem.Size
 22.Finally, select the Body component in the gallery.
 
 23.Set the Text value of the Body to the following formula:
-'''
+```
 ThisItem.Department
-'''
+```
 24.Your gallery should now look like this:
 
 ![app look](https://github.com/AishuSrini/PowerApps-with-data/blob/main/images/app%20look.png)
