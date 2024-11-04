@@ -61,3 +61,6 @@ In this exercise, you will create an application using data from an Excel table.
 
 12.Select the Tree view icon to return to the Tree view.
 ![tree](https://github.com/AishuSrini/PowerApps-with-data/blob/main/images/tree.png)
+
+13.On the app main screen, click on the gallery displaying the Employee Records and then click on RecordsGallery1 in the Tree view to expand it.
+![gallery](https://github.com/AishuSrini/PowerApps-with-data/blob/main/images/gallery.png)
