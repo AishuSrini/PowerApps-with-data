@@ -119,3 +119,11 @@ Now to use Power Apps Ideas. Make sure the gallery is still in edit mode. And se
 
 28.Publish the app by clicking the publish icon in the top right corner
 ![publish](https://github.com/AishuSrini/PowerApps-with-data/blob/main/images/publish.png)
+
+29.Here you will see a dialog appear where you can add a description to your app. 
+
+30.Check if the description is correct. If not, correct it and select the Publish this version button. If yes, select the Publish this version button.
+![publish version](https://github.com/AishuSrini/PowerApps-with-data/blob/main/images/publish%20version.png)
+
+31.Exit the app to return to the Power Apps home page.
+![Back](https://github.com/AishuSrini/PowerApps-with-data/blob/main/images/back.png)
