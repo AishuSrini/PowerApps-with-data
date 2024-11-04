@@ -47,3 +47,17 @@ In this exercise, you will create an application using data from an Excel table.
 
 7.On the Edit Table pop up, enter  Employee Record as the Display name, Employee Records as the Plural Name, and make sure that Address is selected as the Primary column. Select Save
 ![properties](https://github.com/AishuSrini/PowerApps-with-data/blob/main/images/properties.png)
+
+8.Select the save and open app button on the top right-hand corner of the screen.
+![Save and run app](https://github.com/AishuSrini/PowerApps-with-data/blob/main/images/save-and-open-app.png)
+
+9.When the app first loads, a dialog may appear saying: Welcome to Power Apps Studio. If so, select the Skip button.
+
+10.You should now be viewing the app that has been generated for you in Edit mode.
+![employee app](https://github.com/AishuSrini/PowerApps-with-data/blob/main/images/employee-app.png)
+
+11.To the left of the screen, select the Data icon from the navigation bar. Notice that a Dataverse table, based on the Employee_Directory_file.xlsx Excel file, has been created.
+![data](https://github.com/AishuSrini/PowerApps-with-data/blob/main/images/data.png)
+
+12.Select the Tree view icon to return to the Tree view.
+![tree](https://github.com/AishuSrini/PowerApps-with-data/blob/main/images/tree.png)
