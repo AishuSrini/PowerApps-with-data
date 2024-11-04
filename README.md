@@ -71,3 +71,37 @@ In this exercise, you will create an application using data from an Excel table.
 
 15.Select the RecordsGallery1 and then select the edit button to put the gallery in edit mode.
 ![edit](https://github.com/AishuSrini/PowerApps-with-data/blob/main/images/edit.png)
+
+16.Reduce the width and move the position of the Title component so that it is towards the right-hand side of the template cell.
+![Adjust](https://github.com/AishuSrini/PowerApps-with-data/blob/main/images/Adjust.png)
+
+The other components should reposition alongside the Title component. If not, then move them until it looks like the screenshot above.
+
+17.Make sure that the gallery is still in edit mode. Select the Title.
+
+18.Make sure that the Text value of the Title component is set to the following formula:
+'''
+ThisItem.'Employee Name'
+'''
+![text prperty](https://github.com/AishuSrini/PowerApps-with-data/blob/main/images/text%20property.png)
+
+19.Now select the Subtitle component in the gallery.
+
+20.Set the Text value of the Subtitle to the following formula:
+
+'''
+ThisItem.Size
+'''
+
+21.Using the tool bar at the top of the page, change the Size to 14.
+![size](https://github.com/AishuSrini/PowerApps-with-data/blob/main/images/size.png)
+
+22.Finally, select the Body component in the gallery.
+
+23.Set the Text value of the Body to the following formula:
+'''
+ThisItem.Department
+'''
+24.Your gallery should now look like this:
+![app look](https://github.com/AishuSrini/PowerApps-with-data/blob/main/images/app%20look.png)
+
