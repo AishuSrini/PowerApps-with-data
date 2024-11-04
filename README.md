@@ -32,3 +32,18 @@ In this exercise, you will create an application using data from an Excel table.
 
 2.From the Power Apps home screen, select Start with data.
 ![start with data](https://github.com/AishuSrini/PowerApps-with-data/blob/main/images/start-with-data.png)
+
+3.Select create new tables from other ways to get started
+![create from table](https://github.com/AishuSrini/PowerApps-with-data/blob/main/images/other-ways-to-start.png)
+
+4.Select Import an excel file from choose an option to create a tables
+![choose an option](https://github.com/AishuSrini/PowerApps-with-data/blob/main/images/choose-option.png)
+
+5.Click Select from device and navigate to the location where the Employee_Directory_file.xlsx Excel file is saved and upload it. The maximum file size limit is 5 GB.
+![upload file](https://github.com/AishuSrini/PowerApps-with-data/blob/main/images/import-excel.png)
+
+6. Table which is based on the data from the Employee_Directory_file.xlsx Excel file will be generated. Click the 3 dots in employee record and choose properties to change display name.
+![edit](https://github.com/AishuSrini/PowerApps-with-data/blob/main/images/edit-table-name.png)
+
+7.On the Edit Table pop up, enter  Employee Record as the Display name, Employee Records as the Plural Name, and make sure that Address is selected as the Primary column. Select Save
+![properties](https://github.com/AishuSrini/PowerApps-with-data/blob/main/images/properties.png)
