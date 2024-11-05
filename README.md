@@ -38,6 +38,7 @@ In this exercise, you will create an application using data from an Excel table.
 
 5.Click Select from device and navigate to the location where the Employee_Directory_file.xlsx Excel file is saved and upload it. The maximum file size limit is 5 GB.
 ![upload file](https://github.com/AishuSrini/PowerApps-with-data/blob/main/images/import-excel.png)
+> **NOTE** excel file is also available at [Employee_Directory_file.xlsx](https://github.com/AishuSrini/PowerApps-with-data/tree/main/data)
 
 6. Table which is based on the data from the Employee_Directory_file.xlsx Excel file will be generated. Click the 3 dots in employee record and choose properties to change display name.
 ![edit](https://github.com/AishuSrini/PowerApps-with-data/blob/main/images/edit-table-name.png)
