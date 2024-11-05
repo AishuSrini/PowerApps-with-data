@@ -1,4 +1,4 @@
-# **🚀 Lab: Develop**
+# **🚀 Lab: Developing an Employee Directory App**
 # **📝 Lab- Tasks**
 
 In this lab, you will go though the following tasks:
